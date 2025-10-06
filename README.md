@@ -100,4 +100,5 @@ Creative projects – Blending fashion + AI-generated visuals
 
 ## 📜 License
 
-MIT License – free to use, modify, and distribute.
+This Writeup has been released under the Attribution 4.0 International (CC BY 4.0) license.
+https://www.kaggle.com/competitions/banana/writeups/ai-powered-virtual-fitting-room
